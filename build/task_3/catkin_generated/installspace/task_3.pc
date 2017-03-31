@@ -1,0 +1,8 @@
+prefix=/home/simmu/Documents/catkin_ws/install
+
+Name: task_3
+Description: Description of task_3
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/simmu/Documents/catkin_ws/install/lib 
+Requires: 

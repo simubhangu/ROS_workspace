@@ -1,0 +1,8 @@
+prefix=/home/simmu/Documents/catkin_ws/devel
+
+Name: ar_pose
+Description: Description of ar_pose
+Version: 0.0.0
+Cflags: -I/home/simmu/Documents/catkin_ws/devel/include -I/home/simmu/Documents/catkin_ws/src/ar_tools/ar_pose/include
+Libs: -L/home/simmu/Documents/catkin_ws/devel/lib 
+Requires: roscpp geometry_msgs visualization_msgs artoolkit message_runtime

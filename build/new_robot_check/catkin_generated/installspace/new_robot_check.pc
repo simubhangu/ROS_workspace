@@ -1,0 +1,8 @@
+prefix=/home/simmu/Documents/catkin_ws/install
+
+Name: new_robot_check
+Description: Description of new_robot_check
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/simmu/Documents/catkin_ws/install/lib 
+Requires: 

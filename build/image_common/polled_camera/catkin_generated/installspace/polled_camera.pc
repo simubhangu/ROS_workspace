@@ -1,0 +1,8 @@
+prefix=/home/simmu/Documents/catkin_ws/install
+
+Name: polled_camera
+Description: Description of polled_camera
+Version: 1.11.11
+Cflags: -I/home/simmu/Documents/catkin_ws/install/include
+Libs: -L/home/simmu/Documents/catkin_ws/install/lib -lpolled_camera
+Requires: roscpp sensor_msgs

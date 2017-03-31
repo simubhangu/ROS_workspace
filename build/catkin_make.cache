@@ -1,0 +1,2 @@
+ar_tools/ar_pose:ar_tools/ar_tools:ar_tools/artoolkit:aruco_mapping:aruco_ros/aruco:aruco_ros/aruco_msgs:aruco_ros/aruco_ros:image_common/camera_calibration_parsers:image_common/camera_info_manager:image_common/image_common:image_common/image_transport:image_common/polled_camera:marker_pose_detection:my_model:new_robot_check:pal_vision_segmentation:pocketsphinx:task_1:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/simmu/Documents/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/simmu/Documents/catkin_ws/install -G Unix Makefiles

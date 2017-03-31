@@ -1,0 +1,8 @@
+prefix=/home/simmu/Documents/catkin_ws/install
+
+Name: camera_info_manager
+Description: Description of camera_info_manager
+Version: 1.11.11
+Cflags: -I/home/simmu/Documents/catkin_ws/install/include -I/usr/include
+Libs: -L/home/simmu/Documents/catkin_ws/install/lib -lcamera_info_manager
+Requires: roscpp sensor_msgs
